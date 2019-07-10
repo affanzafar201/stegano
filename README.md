@@ -12,8 +12,10 @@ pip install -r requirements.txt
 
 #### Run main-1.py for encoding
 ```
-python main.py
+python main-1.py
 ```
 
 #### Run main-2.py to decode the message
-
+```
+python main-2.py
+```
